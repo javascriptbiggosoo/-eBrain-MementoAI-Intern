@@ -7,5 +7,5 @@ function solution(phoneNumber = new String()) {
   return answer;
 }
 
-console.log(solution("01033334444")); // *******4444
-console.log(solution("027778888")); // *****8888
+// console.log(solution("01033334444")); // *******4444
+// console.log(solution("027778888")); // *****8888
